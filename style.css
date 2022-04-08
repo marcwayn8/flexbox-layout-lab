@@ -31,19 +31,23 @@
     background-color:white;
    justify-content: space-between;
    display: flex;
-     align-items: flex-end;
+     align-items: flex-start;
+         flex-direction:column;
+         margin:50px;
     
 }
 
 .rec4{
    display: flex;
     justify-content:flex-end;
-    flex-direction:column-reverse;
-    align-items:baseline;
+    flex-direction:column;
+     justify-content:space-between;
    
 }
 .section{
     display: flex;
-    
+    justify-content:space-between;
+    align-items:center;
+    padding:50px;
     
 }

@@ -1,40 +1,80 @@
+*{
+    box-sizing: border-box;
+    background-color: white;
+  
+}
+
+
+main{
+
+    height: 515px;
+    width: 835px;
+    margin: auto;
+    position: relative;
+  
+    
+
+}
+
+
+
+
+.button{
+    display:flex;
+    justify-content:center;
+
+
+   
+  
+    
+    
+    
+
+}
+
 
 .flex-container{
-    background-color:black;
-    display: flex;
-    width: 900px;
-    height: 500px;
-    flex-flow:column wrap;
-}
-.heading{
-    display: flex;
     
+    display: flex;
+    align-items:flex-end;
+ 
+    
+   
 }
 
 
 .rec1{
+    display: flex;
     background-color:grey;
-   height: 180px;
-   width: 900px;
+       width:835px;
+     height:191px;
    
 }
 
 .rec2{
-    
+    display: flex;
+    align-items:center;
+justify-content:center;
+   
     background-color:pink;
-    border-radius: 50px;
-    width: 50px;
-    height: 50px;
-    padding: 30px;
-    margin: 5px 750px;
+    border-radius: 89px;
+
+    height:146px;
+    width:146px;
+    position: relative;
+    top:20px;
+    left:394px;
+  
+
+    
 }
 
 
 .rec3{
     background-color:white;
-   justify-content:flex-end;
+  
    display: flex;
-     align-items: flex-start;
+       justify-content:flex-end;
          flex-direction:column;
          margin:50px;
     
@@ -48,9 +88,7 @@
    
 }
 .section{
-    background-color: blue;
+    background-color: red;
     display: flex;
     justify-content:flex-start;
-    padding:50px;
-    margin-top: 400px;
 }

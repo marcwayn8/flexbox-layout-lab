@@ -92,3 +92,117 @@ justify-content:center;
     display: flex;
     justify-content:flex-start;
 }
+
+
+
+
+/*
+body{
+    box-sizing: border-box;
+    background-color: white;
+    margin:0px;
+      height: 515px;
+    width: 835px;
+  
+}
+
+
+main{
+
+ box-sizing:border-box;
+    display:flex;
+      width: 835px;
+  margin:0px;
+    flex:4;
+
+}
+
+
+
+
+.button{
+    display:flex;
+    justify-content:center;
+
+
+   
+  
+    
+    
+    
+
+}
+
+
+.flex-container{
+    
+    display: flex;
+    align-items:flex-start;
+    flex:2;
+}
+ 
+ 
+ 
+ .rec1{
+   display:flex;
+    background-color:grey;
+       width:835px;
+     height:191px;
+   
+}
+
+.rec2{
+    display: flex;
+    align-items:center;
+    justify-content:center;
+
+   
+    background-color:pink;
+    border-radius: 89px;
+top:150px;
+    height:146px;
+    width:146px;
+    position: relative;
+    top:20px;
+
+  
+
+    
+}
+
+    .flex-container2{
+    
+    display: flex;
+    align-items:flex-end;
+       justify-content:flex-end;
+    flex:2;
+    background-color: red;
+    flex-direction:row;
+    
+ 
+   
+}
+
+
+
+
+.rec3{
+    background-color:white;
+  
+   display: flex;
+       justify-content:flex-start;
+       align-items:center;
+         flex-direction:row;
+         margin:50px;
+    
+}
+
+.rec4{
+   display: flex;
+    justify-content:flex-end;
+     flex-direction:row;
+    align-items:center;
+    
+   
+}
+*/
